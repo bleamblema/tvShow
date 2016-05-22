@@ -1,0 +1,6 @@
+Tutorial:  
+http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/
+
+Start mongodb first
+- mongod -dbpath=../data/db --journal
+- node server.js

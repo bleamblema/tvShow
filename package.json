@@ -1,0 +1,40 @@
+{
+  "name": "TvShow",
+  "version": "1.0.0",
+  "description": "Nodejs Application",
+  "main": "index.js",
+  "scripts": {
+	"start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^0.8.1",
+    "async": "^2.0.0-rc.5",
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.1",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "lodash": "^4.12.0",
+    "mongoose": "^4.4.17",
+    "morgan": "^1.7.0",
+    "nodemailer": "^2.4.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "request": "^2.72.0",
+    "sugar": "^1.4.1",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-uncss": "^1.0.5"
+  }
+}
